@@ -14,13 +14,13 @@ A collection of stepping stones on my journey towards a better functional unders
 - variable naming restrictions
 - naming conventions
 
-  23.02.23
+  24.02.23
 
 - Data types -- bool, int, str, float, list, dict
 - Dynamic Typing - flexability with reasigning data types in python 3
 - The value None
 - Double vs single quotes in python
 
-  24.02.23
+  25.02.23
 
 - string escape sequences
