@@ -20,3 +20,7 @@ A collection of stepping stones on my journey towards a better functional unders
 - Dynamic Typing - flexability with reasigning data types in python 3
 - The value None
 - Double vs single quotes in python
+
+  24.02.23
+
+- string escape sequences
