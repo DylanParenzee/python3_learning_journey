@@ -13,3 +13,5 @@ A collection of stepping stones on my journey towards a better functional unders
 - variable intro
 - variable naming restrictions
 - naming conventions
+
+  23.02.23
