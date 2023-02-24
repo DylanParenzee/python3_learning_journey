@@ -24,3 +24,5 @@ A collection of stepping stones on my journey towards a better functional unders
   25.02.23
 
 - string escape sequences
+- string concatenation
+- += operator
