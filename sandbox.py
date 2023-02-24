@@ -22,3 +22,19 @@ high_score = 2983729
 
 # Define a variable named is_having_fun and set it to a Boolean value
 is_having_fun = True
+
+
+# 25.02.23
+
+ # Set the message variable equal to any string containing a new-line escape sequence
+message = "hello there \n how are you"
+
+
+# Add a string to the mountains variable that when printed results in: /\/\/\
+# You will need to use an escape sequence more than once!
+mountains = "/\\/\\/\\"
+
+
+# Set the quotation variable to any string that contains an escaped double quotation mark
+
+quotation = "\"time\""
