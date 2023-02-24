@@ -16,4 +16,5 @@ A collection of stepping stones on my journey towards a better functional unders
 
   23.02.23
 
-- Data types -- bool, int, str, list, dict
+- Data types -- bool, int, str, float, list, dict
+- Dynamic Typing - flexability with reasigning data types!
