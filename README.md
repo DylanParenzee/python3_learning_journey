@@ -17,4 +17,5 @@ A collection of stepping stones on my journey towards a better functional unders
   23.02.23
 
 - Data types -- bool, int, str, float, list, dict
-- Dynamic Typing - flexability with reasigning data types!
+- Dynamic Typing - flexability with reasigning data types in python 3
+- The value None
