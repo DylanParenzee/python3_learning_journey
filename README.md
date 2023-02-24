@@ -26,3 +26,4 @@ A collection of stepping stones on my journey towards a better functional unders
 - string escape sequences
 - string concatenation
 - += operator
+- string formatting
