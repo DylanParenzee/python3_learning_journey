@@ -50,3 +50,19 @@ quotation = "\"time\""
 greeting = "Hello there"
 name = "Anikin Skywalker"
 greet_name = greeting + " " + name
+
+
+
+#26.02.23
+
+#Formatting Strings
+#Set the variable called first  to your first name.
+
+#Set the variable called last  to your last name.
+
+#Then set the variable called formatted  that interpolates both using the .format()  method.  Make sure you follow this pattern:
+
+first = "John"
+last = "Doe"
+
+formatted = "First Name: {}, Last Name: {}".format(first, last)
