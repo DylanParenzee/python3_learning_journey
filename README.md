@@ -34,3 +34,4 @@ A collection of stepping stones on my journey towards a better functional unders
 - incices and indexes
 - converting data types
 - mileage converter project
+- completed variables and data types end of section quiz
