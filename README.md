@@ -31,3 +31,6 @@ A collection of stepping stones on my journey towards a better functional unders
   26.02.23
 
 - New format for interpolation in python (3.6+)
+- incices and indexes
+- converting data types
+- mileage converter project
