@@ -35,3 +35,10 @@ A collection of stepping stones on my journey towards a better functional unders
 - converting data types
 - mileage converter project
 - completed variables and data types end of section quiz
+
+  04.03.23
+
+- Using booleans in Python3
+- getting user input
+- truthy and falsey (again) - its a good refresher to do all this again.
+- conditionals
