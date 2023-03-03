@@ -70,3 +70,14 @@ formatted = "First Name: {}, Last Name: {}".format(first, last)
 
 #04.02.23
 
+name = 'john snow'
+
+if name == "arya stark" :
+    print('valar morghulis')
+elif name == 'john snow':
+    print('you know nothing')
+else:
+     print('Carry on')        
+
+
+
