@@ -42,3 +42,7 @@ A collection of stepping stones on my journey towards a better functional unders
 - getting user input
 - truthy and falsey (again) - its a good refresher to do all this again.
 - conditionals
+
+  09.03.23
+
+- Inherent truthyness and falseyness
