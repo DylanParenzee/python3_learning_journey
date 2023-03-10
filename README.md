@@ -46,3 +46,4 @@ A collection of stepping stones on my journey towards a better functional unders
   09.03.23
 
 - Inherent truthyness and falseyness
+- comparitives
