@@ -6,3 +6,4 @@ lower_case = "abcdefghijklmnopqrstuvwxyz"
 upper_case = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 symbols = '!@#$%^&*()_+?./\'
 numbers = '0123456789'
+
