@@ -1,4 +1,4 @@
-A collection of stepping stones on my journey towards a better functional understanding of python3
+A collection of stepping stones on my journey towards a better functional understanding of python3 and web scraping
 
 19.02.23
 
