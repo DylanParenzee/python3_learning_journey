@@ -88,7 +88,7 @@ choice = randint(1,10)
 if choice == 7:
     print('lucky')
 else:
-    print('unlucky sorr try again ')
+    print('unlucky sorry try again ')
 
 
     #07.03.23
