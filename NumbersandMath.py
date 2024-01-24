@@ -1,10 +1,9 @@
 # A place to play around with the more number heavy aspects of python 
 
-def say_hi():
-  print("hi there")
-  
+
 def add(a,b):
-  print(a+b)
+  answer = a * b
+  print(answer)
 
 
 say_hi()
