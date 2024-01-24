@@ -1,0 +1,4 @@
+Notes to take 
+
+Dynamic typing = refers to the flexabilty of reassigning variables and abilty to change its class 
+Static typing  = variables are stuck with their orginally defined/assigned type
