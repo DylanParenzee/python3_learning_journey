@@ -31,7 +31,7 @@ message = "hello there \n how are you"
 
 
 # Add a string to the mountains variable that when printed results in: /\/\/\
-# You will need to use an escape sequence more than once!
+# You will need to use an escape sequence more than once! -- completed again
 mountains = "/\\/\\/\\"
 
 
@@ -46,6 +46,7 @@ quotation = "\"time\""
 #Set the variable called name  to some name, e.g. "Heisenberg".
 
 #Then set the variable called greet_name  so that it concatenates greeting , name , and a space " " between them.
+#completed again -- 
 
 greeting = "Hello there"
 name = "Anikin Skywalker"
@@ -60,7 +61,7 @@ greet_name = greeting + " " + name
 
 #Set the variable called last  to your last name.
 
-#Then set the variable called formatted  that interpolates both using the .format()  method.  Make sure you follow this pattern:
+#Then set the variable called formatted  that interpolates both using the .format()  method.  Make sure you follow this pattern: completed again--
 
 first = "John"
 last = "Doe"
