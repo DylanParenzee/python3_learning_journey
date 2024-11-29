@@ -8,7 +8,7 @@
 #Write code to apply string manipulation features and any other mathematical formulae to implement required features
 #Use program library functions
 
-def sort():
+def sort(): #A function to sort through phases or words from the user input and convert to pig latin
   phrase = input('what is your phrase? ') # takes input from user and saves it to the variable "Phrase"
   split_phrase = phrase.split() # takes the phrase and splits it into a list with individual words
   for words in split_phrase : # loops through each word 
