@@ -1,0 +1,1 @@
+# create a rock paper scissors guessing game for 2 players from terminal
