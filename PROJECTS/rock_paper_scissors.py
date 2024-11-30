@@ -21,7 +21,12 @@ def get_inputs():
     print(f'Winner = Player 2! scissors beats paper')
    else: print(f'its a draw!')
 
-game_continue = input('continue game ? y or n ')
+game_continue = input('Run Game? y or n ')
+
+#need to make it function better
+#still bugs 
+#need to make game continue until user decides its over
+
 
 
 get_inputs()
