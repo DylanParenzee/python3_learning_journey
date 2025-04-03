@@ -1,37 +1,30 @@
 #This file will include the Treasue Island interactive game project and the learnings for it. 
 
 
-#conditinal logic and flow control 
+#conditinal logic and flow control
 
-#exercise
+first_choice = input('you are at a cross road, left or right\n').lower()
 
-weight = 85
-height = 1.85
+def red():
+   print("A ROOM FULL OF FIRE, GAME OVER")
 
-bmi = weight / (height ** 2)
+def blue():
+   print('AN ANGRY TROUT ATTACKS YOU, GAME OVER')
 
-if bmi < 18.5:
-    print("underweight")
-elif (bmi > 18.5 ) and (bmi< 25):
-    print('normal weight')
-else: 
-    print('overweight')
-
-
-#game 
-
-def start_game():
-   want_to_play = input("Helo would you like to play a game    y or n ? ")
-   if want_to_play == "y":
-      print("Awesome, Lets play treasure island!")
-      game_logic()
-   else:
-    print("No problem, have a good day!")
-
+if first_choice == 'left':
+    print("A good choice... who knows what would have happened had you gone left...")
+    second_choice = input("You can see the island, will you swim or wait for the boat? \n type 'swim' or 'wait'\n ").lower()
+    if second_choice == 'wait':
+      third_choice = input('Your boat has arrived and taken you to the island where there are three doors \n Red \n Blue \n Yellow \n Which do you choose?\n Type "red", "blue" or "yellow"\n ').lower()
+      if third_choice == 'yellow':
+         print('You Win!')
+      elif third_choice == "red":
+         red()
+      elif third_choice == 'blue':
+         blue()
+    else:
+       print('SHARK INFESTED WATER, GAME OVER')
+else:
+    print('Game Over')
 
 
-
-
-
-def game_logic():
-  return none 
